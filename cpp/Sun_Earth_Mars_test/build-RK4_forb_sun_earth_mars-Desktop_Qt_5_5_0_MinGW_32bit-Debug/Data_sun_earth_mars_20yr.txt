@@ -1,0 +1,2 @@
+Sun_x               Sun_y               Sun_z             Earth_x             Earth_y             Earth_z              Mars_x              Mars_y              Mars_z
+1                   1                   1                   2                   1                   1                -0.5                   1                   1

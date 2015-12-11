@@ -1,0 +1,50 @@
+Runge-Kutta Method, 2 body, 3D, new script
+Time: 182 days
+Number of time steps: 100000
+Time step: 0.00182 days
+ 
+mass Sun1
+mass Earth3e-006
+ 
+initial position Sun:
+1
+1
+1
+initial velocity Sun:
+0
+0
+0
+initial position Earth:
+2
+1
+1
+initial velocity Earth:
+0
+0.017
+0
+ 
+Initial distance earth-sun: 1 AU
+Initial energy Sun:  8.88e-010
+Initial energy Earth:  1.3215e-009
+ 
+final position Sun:
+1.00001
+1.00001
+1
+final velocity Sun:
+-5.54396e-009
+1.04176e-007
+0
+final position Earth:
+0.0514795
+0.898767
+1
+final velocity Earth:
+0.00184799
+-0.0177252
+0
+ 
+Final distance earth-sun: 0.953914 AU
+Final energy Sun:  9.30901e-010
+Final energy Earth:  9.30902e-010
+ 

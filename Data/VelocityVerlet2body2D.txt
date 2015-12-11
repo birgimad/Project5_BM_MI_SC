@@ -1,0 +1,24 @@
+Velocity-Verlet Method, 2 body, 3D
+Time: 182 days
+Number of time steps: 100000
+Time step: 0.00182 days
+initial position:
+1
+0
+0
+initial velocity:
+0
+0.017
+0
+Initial distance to sun: 1 AU
+Initial energy:  0.000585
+final position:
+-0.948534
+-0.101224
+0
+initial velocity:
+0.00184763
+-0.0177252
+0
+Final distance to sun: 1 AU
+Final energy:  0.000627896
